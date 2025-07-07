@@ -79,6 +79,12 @@ python student_tracker_mysql.py
 - 📤 Export data to CSV or PDF
 
 ---
+## 📸 Screenshot
+
+Here’s a sample of the CLI interface while running the project:
+
+![CLI Screenshot](screenshot.png)
+
 
 ## 📬 Contact
 
